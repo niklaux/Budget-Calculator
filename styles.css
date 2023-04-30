@@ -1,0 +1,56 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+   
+}
+
+.body-color {
+    background-color: #118A7E;
+}
+
+nav, .navbar-brand {
+    background-color: #3BAEA0;
+    text-decoration: none;
+    color: whitesmoke;
+    vertical-align: auto;
+    padding: 0;
+}
+
+.budgetLogo {
+    width: 50px;
+    height: auto;
+    margin: 10px 20px;
+}
+
+div .card {
+    margin: 50px auto;
+    color: whitesmoke;
+    border: 0px solid rgba(0,0,0,.125);
+    min-width: 300px;
+    
+}
+
+.card-body {
+    background-color: #3BAEA0;
+}
+
+#input1 {
+    margin-top: 10px;
+    margin-bottom: -1px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+#input2 {
+    margin-bottom: -1px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+#input3 {
+    margin-top: -1px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
